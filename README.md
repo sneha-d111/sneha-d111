@@ -4,94 +4,92 @@
 
 
 
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,25:5B21B6,55:9333EA,80:EC4899,100:06B6D4&height=230&section=header&text=Hey,%20I'm%20Sneha!&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=17&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,25:4C1D95,55:9333EA,80:DB2777,100:0891B2&height=230&section=header&text=HEY,%20I'M%20SNEHA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20DEVELOPER%20%7C%20AI%2FML%20EXPLORER&descSize=16&descAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=I+Code+in+Python+%26+Java;I'm+Currently+Learning+DSA;I'm+Exploring+AI+%26+Machine+Learning;I'm+Building+My+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=650&lines=I+Code+in+Python+%26+Java;I'm+Currently+Learning+DSA;I'm+Exploring+AI+%26+Machine+Learning;Learning.+Building.+Growing." alt="Animated introduction" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-9333EA?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-EC4899?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-DB2777?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## 💫 01 / About Me
 
-Hi! I'm **Sneha** 👋
+Hi, I'm **Sneha** 👋
 
-I'm a student who is passionate about programming, problem-solving, and exploring the world of technology.
+I'm a student passionate about programming, problem-solving, and discovering how technology can turn ideas into reality.
 
-I'm someone who enjoys learning new concepts, challenging myself, and turning curiosity into practical knowledge. I'm currently building my foundation in computer science while exploring the exciting possibilities of Artificial Intelligence.
+I'm currently strengthening my foundations in computer science, learning Data Structures and Algorithms, and exploring the exciting world of Artificial Intelligence and Machine Learning.
 
 - 💻 I'm a programmer who knows **Python and Java**.
-- 🧩 I'm currently learning **Data Structures and Algorithms (DSA)**.
+- 🧩 I'm currently learning **Data Structures & Algorithms (DSA)**.
 - 🤖 I'm exploring **Artificial Intelligence and Machine Learning**.
 - 🧠 I'm working on improving my logical thinking and problem-solving skills.
 - 🌱 I'm continuously learning, practicing, and growing as a developer.
-- 🚀 I'm working towards building useful projects and becoming a better software developer.
 
 > ✨ I'm not just learning to write code — I'm learning to think, solve problems, and create.
 
 ---
 
-## 🛠️ My Tech Stack
+## ⚡ 02 / My Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages I Know
 
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python and Java" />
 
-<br/><br/>
+### 🛠️ Tools I Use
 
-### ⚙️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Visual Studio Code, Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="VS Code, Git and GitHub" />
 
 <br/><br/>
 
-### 🧠 My Learning Interests
+### 🧠 What I'm Exploring
 
-<img src="https://img.shields.io/badge/Data%20Structures-LEARNING-7C3AED?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Algorithms-PRACTICING-06B6D4?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-EXPLORING-EC4899?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Machine%20Learning-EXPLORING-F59E0B?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Data%20Structures-LEARNING-7C3AED?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/Algorithms-PRACTICING-0891B2?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-EXPLORING-DB2777?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/Machine%20Learning-EXPLORING-D97706?style=for-the-badge&labelColor=111111" />
 
 </div>
 
 ---
 
-## 🌟 What I'm Currently Doing
+## 🚀 03 / My Current Journey
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Learning DSA
+### 🧩 DSA & Problem-Solving
 
-I'm currently learning how data structures and algorithms work.
+I'm currently learning how to solve programming problems more efficiently.
 
-- Understanding core concepts
-- Practicing coding problems
-- Improving logical thinking
-- Learning to analyze solution efficiency
+- Understanding data structures
+- Learning algorithms
+- Practicing coding questions
+- Exploring time and space complexity
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Exploring AI & ML
+### 🤖 AI & Machine Learning
 
-I'm beginning my journey into Artificial Intelligence and Machine Learning.
+I'm exploring how computers can learn from data and power intelligent applications.
 
-- Learning the fundamentals
-- Exploring how intelligent systems work
-- Understanding real-world applications
+- Learning AI/ML fundamentals
+- Understanding core concepts
+- Exploring real-world applications
 - Building a foundation for future projects
 
 </td>
@@ -100,36 +98,31 @@ I'm beginning my journey into Artificial Intelligence and Machine Learning.
 
 ---
 
-## 🎯 My Goals
+## 🎯 04 / My Goals
 
-- [ ] Master the fundamentals of DSA
-- [ ] Become more confident in Python and Java
-- [ ] Solve problems consistently
+- [ ] Strengthen my Python and Java fundamentals
+- [ ] Build confidence in DSA
+- [ ] Practice coding problems consistently
 - [ ] Learn AI and ML step by step
-- [ ] Build projects that apply what I learn
-- [ ] Grow through collaboration and hands-on experience
+- [ ] Create projects using what I learn
+- [ ] Keep growing as a developer
 
 ---
 
-## 🌈 A Little About My Mindset
+## 🌷 05 / My Mindset
 
-I'm a curious learner who believes that consistency matters more than perfection.
+I'm a curious learner who believes in progress over perfection.
 
-I'm excited by new challenges, motivated by progress, and always ready to learn something new. Every bug I fix and every problem I solve helps me grow.
+I'm excited to explore new ideas, learn from mistakes, and keep improving one step at a time.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F472B6&center=true&vCenter=true&width=550&lines=Dream+Big+%F0%9F%92%9C;Learn+Constantly+%F0%9F%92%BB;Build+Fearlessly+%F0%9F%9A%80;Keep+Growing+%E2%9C%A8" alt="My mindset" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F0ABFC&center=true&vCenter=true&width=550&lines=Dream+Big+%F0%9F%92%9C;Stay+Curious+%E2%9C%A8;Keep+Building+%F0%9F%9A%80;Never+Stop+Learning+%F0%9F%92%BB" alt="My mindset" />
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:9333EA,70:EC4899,100:09090F&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,35:DB2777,70:7C3AED,100:08080D&height=130&section=footer" />
 
 **Thanks for visiting my profile! 💜**
 
 *Let's learn, build, and grow together.*
 
 </div>
-
-
-
