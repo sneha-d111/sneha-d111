@@ -1,107 +1,124 @@
 
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090714,35:30205A,70:9B72CF,100:F0A6D7&height=210&section=header&text=hey,%20i'm%20sneha%20♡&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=aspiring%20developer%20%E2%9C%A7%20ai%2Fml%20explorer&descSize=16&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08080D,25:4C1D95,55:9333EA,80:DB2777,100:0891B2&height=230&section=header&text=HEY,%20I'M%20SNEHA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20DEVELOPER%20%7C%20AI%2FML%20EXPLORER&descSize=16&descAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=550&lines=code+%E2%80%A2+learn+%E2%80%A2+grow+%F0%9F%92%97;python+%26+java+girl+%E2%98%95;currently+learning+dsa+%F0%9F%A7%A9;dreaming+big%2C+one+step+at+a+time+%E2%9C%A8" alt="Cute animated intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=650&lines=I+Code+in+Python+%26+Java;I'm+Currently+Learning+DSA;I'm+Exploring+AI+%26+Machine+Learning;Learning.+Building.+Growing." alt="Animated introduction" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/python-191326?style=for-the-badge&logo=python&logoColor=A5D8FF" />
-<img src="https://img.shields.io/badge/java-191326?style=for-the-badge&logo=openjdk&logoColor=F9A8D4" />
-<img src="https://img.shields.io/badge/DSA-learning-30205A?style=for-the-badge&logo=thealgorithms&logoColor=D8B4FE" />
-<img src="https://img.shields.io/badge/AI%2FML-exploring-123044?style=for-the-badge&logo=googlecolab&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-DB2777?style=for-the-badge" />
 
 </div>
 
 ---
 
-## ♡ about me
+## 💫 01 / About Me
 
-hii, i'm **Sneha** 🌷
+Hi, I'm **Sneha** 👋
 
-i'm a student who loves exploring technology, learning new things, and figuring out how things work.
+I'm a student passionate about programming, problem-solving, and discovering how technology can turn ideas into reality.
 
-i'm building my programming foundation, one problem and one concept at a time. right now, i'm learning dsa and exploring the fascinating world of artificial intelligence.
+I'm currently strengthening my foundations in computer science, learning Data Structures and Algorithms, and exploring the exciting world of Artificial Intelligence and Machine Learning.
 
-- 🌸 i'm a programmer who knows **python & java**
-- 🧩 i'm currently learning **data structures & algorithms**
-- 🪄 i'm exploring **artificial intelligence & machine learning**
-- 💭 i'm working on my logic and problem-solving skills
-- 🌱 i'm growing at my own pace and enjoying the journey
+- 💻 I'm a programmer who knows **Python and Java**.
+- 🧩 I'm currently learning **Data Structures & Algorithms (DSA)**.
+- 🤖 I'm exploring **Artificial Intelligence and Machine Learning**.
+- 🧠 I'm working on improving my logical thinking and problem-solving skills.
+- 🌱 I'm continuously learning, practicing, and growing as a developer.
 
-<blockquote>
-  <i>same girl, bigger dreams. ♡</i>
-</blockquote>
+> ✨ I'm not just learning to write code — I'm learning to think, solve problems, and create.
 
 ---
 
-## ✿ my little tech corner
+## ⚡ 02 / My Tech Stack
 
 <div align="center">
 
-### 🎀 languages
+### 💻 Languages I Know
 
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python and Java" />
 
-### 🧸 tools i use
+### 🛠️ Tools I Use
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="VS Code, Git and GitHub" />
 
+<br/><br/>
+
+### 🧠 What I'm Exploring
+
+<img src="https://img.shields.io/badge/Data%20Structures-LEARNING-7C3AED?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/Algorithms-PRACTICING-0891B2?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-EXPLORING-DB2777?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/Machine%20Learning-EXPLORING-D97706?style=for-the-badge&labelColor=111111" />
+
 </div>
 
-### 🌙 things i'm learning
+---
 
-| My focus | My journey |
-|---|---|
-| 🧩 DSA | learning and practicing |
-| 💜 Algorithms | improving my problem-solving |
-| 🤖 AI | exploring the fundamentals |
-| 🩵 Machine Learning | discovering how it works |
+## 🚀 03 / My Current Journey
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 DSA & Problem-Solving
+
+I'm currently learning how to solve programming problems more efficiently.
+
+- Understanding data structures
+- Learning algorithms
+- Practicing coding questions
+- Exploring time and space complexity
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+
+I'm exploring how computers can learn from data and power intelligent applications.
+
+- Learning AI/ML fundamentals
+- Understanding core concepts
+- Exploring real-world applications
+- Building a foundation for future projects
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✧ my journey so far
+## 🎯 04 / My Goals
 
-**01 — learning the basics** 🌱
-
-i'm strengthening my Python and Java fundamentals.
-
-**02 — becoming a problem solver** 🧩
-
-i'm learning DSA and practicing how to approach problems logically.
-
-**03 — exploring AI/ML** 🤖
-
-i'm discovering how intelligent systems learn and how AI can be useful in real life.
-
-**04 — growing every day** 🌷
-
-i'm working towards becoming a confident developer through practice and curiosity.
+- [ ] Strengthen my Python and Java fundamentals
+- [ ] Build confidence in DSA
+- [ ] Practice coding problems consistently
+- [ ] Learn AI and ML step by step
+- [ ] Create projects using what I learn
+- [ ] Keep growing as a developer
 
 ---
 
-## 💌 little dreams, big goals
+## 🌷 05 / My Mindset
 
-- [ ] become stronger in Python and Java
-- [ ] build a solid foundation in DSA
-- [ ] solve more coding problems
-- [ ] learn AI and ML step by step
-- [ ] create projects of my own
-- [ ] keep showing up, even on difficult days
+I'm a curious learner who believes in progress over perfection.
 
----
+I'm excited to explore new ideas, learn from mistakes, and keep improving one step at a time.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=F0ABFC&center=true&vCenter=true&width=500&lines=dream+%E2%9C%A7+learn+%E2%9C%A7+build+%E2%9C%A7+grow;progress%2C+not+perfection+%F0%9F%92%97;one+day+at+a+time+%F0%9F%8C%99" alt="My motto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F0ABFC&center=true&vCenter=true&width=550&lines=Dream+Big+%F0%9F%92%9C;Stay+Curious+%E2%9C%A8;Keep+Building+%F0%9F%9A%80;Never+Stop+Learning+%F0%9F%92%BB" alt="My mindset" />
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,35:DB2777,70:7C3AED,100:08080D&height=130&section=footer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F0A6D7,40:9B72CF,75:30205A,100:090714&height=120&section=footer" />
+**Thanks for visiting my profile! 💜**
 
-**thanks for visiting my little corner of GitHub ♡**
-
-<sub>made with curiosity, late-night dreams & lots of ☕</sub>
+*Let's learn, build, and grow together.*
 
 </div>
+
